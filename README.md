@@ -6,5 +6,7 @@ Design of a BRN microprocessor based on a Harvard architecture, simulation based
 
 Licenciatura Engenharia Informática e Multimédia - ISEL
 
+---
 
+The simulation of the microprocessor was based on arduino, where the different instructions were tested.
 
